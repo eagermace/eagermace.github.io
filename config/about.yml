@@ -40,7 +40,7 @@ SKILLS:
       description: "I have the skill to convey ideas clearly and concisely, both technically and non-technically."
 
 TECHNOLOGIES:
-  enabled: true
+  enabled: false
   label: "Tech Experience"
   items:
     - title: "Python"
