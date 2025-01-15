@@ -22,7 +22,7 @@ EXPERIENCE:
   enabled: true
   label: "Experience"
   items:
-  - period: "Mar 2021 - Jun 2021"
+    - period: "Mar 2021 - Jun 2021"
       position: "Medical Tester"
       description: "Assembled and created swab test kits that nurses and CNA’s used to test individual patients. The kits are prepared in a clean room or similar laboratory. Reviewed work orders for proper assembly, and built test kits according to specifications."
     - period: "Jun 2021 - Aug 2021"
