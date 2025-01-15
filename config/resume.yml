@@ -19,7 +19,7 @@ EDUCATION:
       description: "Institute of Transportation Engineers – President | Filipino Student Union – Treasurer"
 
 EXPERIENCE:
-  enabled: false
+  enabled: true
   label: "Experience"
   items:
     - period: "Mar 2021 - Jun 2021"
@@ -51,9 +51,9 @@ EXPERIENCE:
       description: "Managing a college residence hall floor of undergraduate students, maintaining all bulletin boards and fliers with accurate, up-to-date, and useful information, and counseling students on various personal and academic issues."
   
   LANGUAGES:
-  enabled: false
-  display_progress_bars: true
-  display_percentage_values: true
+  enabled: true
+  display_progress_bars: false
+  display_percentage_values: false
   label: "Languages"
   items:
     - language: "Inglés"
