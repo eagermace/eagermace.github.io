@@ -19,7 +19,7 @@ EDUCATION:
       description: "Institute of Transportation Engineers – President | Filipino Student Union – Treasurer"
 
 EXPERIENCE:
-  enabled: true
+  enabled: false
   label: "Experience"
   items:
     - period: "Mar 2021 - Jun 2021"
