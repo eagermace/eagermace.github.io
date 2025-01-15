@@ -23,7 +23,7 @@ DOING:
 
 
 SKILLS:
-  enabled: true
+  enabled: false
   label: "Soft Skills"
   items:
     - title: "Fast Learner"
