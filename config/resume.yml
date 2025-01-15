@@ -3,7 +3,7 @@ HEADER:
 
 EDUCATION:
   enabled: true
-  label: "Education"
+  label: "Educatio"
   items:
     - period: "2002 — 2004"
       institution: "High School of Art and Design"
