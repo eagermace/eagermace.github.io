@@ -10,7 +10,8 @@ DOING:
   items:
     - title: "UW-Milwaukee"
       icon: "config/assets/icons/mobile.svg"
-      description: "B.S. in Civil Engineering. Estimate Graduation: May 2026"
+      description: "B.S. in Civil Engineering."
+      description: "Estimated Graduation: May 2026"
     - title: "Resident Assistant"
       icon: "config/assets/icons/code.svg"
       description: "Sandburg Resident Hall - North Tower Floor 24"
