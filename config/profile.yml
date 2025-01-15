@@ -7,23 +7,23 @@ HEADER:
   label: "Show Contacts"
 
 USER:
-  role: "iOS Developer"
-  name: "Richard Hendricks"
-  username: "richardhendricks" # <-- This needs to be the same as your GitHub username
-  avatar: "config/assets/avatars/my-avatar.png"
+  role: "Civil Engineer"
+  name: "James Ouano"
+  username: "eagermace" # <-- This needs to be the same as your GitHub username
+  avatar: config/assets/avatars/eagemace.png
 
 INFO:
   - label: "Email"
-    value: "richard@example.com"
+    value: "james.k.ouano@gmail.com"
     icon: "mail-outline"
   - label: "Phone"
-    value: "+1 (213) 352-2795"
+    value: "+1 (847) 219-1491"
     icon: "phone-portrait-outline"
   - label: "Birthday"
-    value: "June 26, 1996"
+    value: "July 31, 2003"
     icon: "calendar-outline"
   - label: "Location"
-    value: "Sacramento, California, USA"
+    value: "Milwaukee, Wisconsin, USA"
     icon: "location-outline"
 
 SOCIAL:
