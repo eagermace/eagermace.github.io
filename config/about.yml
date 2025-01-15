@@ -1,31 +1,28 @@
 HEADER:
-  label: "About me james ouano"
+  label: "About me"
 
 PRESENTATION:
   description: |
-    I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
-
-    My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
-
+    Senior Civil Engineering student with diverse engineering project experience. Professional field experience as an Engineering Intern at Rockwell Automation and ASYST Technologies.
 DOING:
   enabled: true
   label: "What I'm doing"
   items:
-    - title: "Mobile Apps"
+    - title: "UW-Milwaukee"
       icon: "config/assets/icons/mobile.svg"
-      description: "Professional development of applications for iOS and Android."
-    - title: "Scripting"
+      description: "."
+    - title: "Car Detailer"
       icon: "config/assets/icons/code.svg"
-      description: "Automation and task scripting using Python to enhance efficiency and productivity."
-    - title: "UI/UX Designing"
+      description: "."
+    - title: "Streamer"
       icon: "config/assets/icons/compass.svg"
-      description: "Intuitive and visually appealing user interfaces and user experiences."
-    - title: "Web Development"
+      description: "."
+    - title: "Nigger"
       icon: "config/assets/icons/laptop-code.svg"
-      description: "High-quality development of sites at the professional level."
+      description: "."
 
 SKILLS:
-  enabled: true
+  enabled: false
   label: "Soft Skills"
   items:
     - title: "Fast Learner"
@@ -42,7 +39,7 @@ SKILLS:
       description: "I have the skill to convey ideas clearly and concisely, both technically and non-technically."
 
 TECHNOLOGIES:
-  enabled: true
+  enabled: false
   label: "Tech Experience"
   items:
     - title: "Python"
