@@ -3,20 +3,20 @@ HEADER:
 
 EDUCATION:
   enabled: true
-  label: "Educatio"
+  label: "Education"
   items:
-    - period: "2002 — 2004"
-      institution: "High School of Art and Design"
-      description: "Graduated with honors, focusing on visual arts and design principles. Participated in multiple student exhibitions, honing skills in drawing, painting, and graphic design."
-    - period: "2005 — 2007"
-      institution: "Brooklyn Technical High School"
-      description: "Completed coursework in computer science and digital media, with a particular focus on web development and programming. Collaborated on projects involving coding and design integration."
-    - period: "2006 — 2007"
-      institution: "New York Academy of Art"
-      description: "Studied fine arts with a focus on sculpture and advanced painting techniques. Took part in workshops and intensive studio sessions, receiving feedback from industry professionals."
-    - period: "2007 — 2008"
-      institution: "University School of the Arts"
-      description: "Pursued a Bachelor of Fine Arts degree, specializing in interactive media and digital design. Graduated with a portfolio of projects blending traditional art forms with emerging technologies."
+    - period: "2017 — 2021"
+      institution: "Warren Township High School"
+      description: "Trident Robotics | Gurnee Park District | National Honor Society | JV Tennis"
+    - period: "2021 — 2022"
+      institution: "Milwaukee School of Engineering"
+      description: "Kapamilia Association – Vice President | Spike ball Club – Secretary"
+    - period: "2022 — 2023"
+      institution: "College of Lake County"
+      description: "Engineering Club | Math Club"
+    - period: "2023 — Present"
+      institution: "University of Wisconsin - Milwaukee"
+      description: "Institute of Transportation Engineers – President | Filipino Student Union – Treasurer"
 
 EXPERIENCE:
   enabled: true
@@ -33,7 +33,7 @@ EXPERIENCE:
       description: "Direct and oversee the creative process for a range of projects, from concept to execution. Lead cross-functional teams to create innovative design solutions for branding, marketing, and digital experiences. Recently led the redesign of a global brand’s digital presence, increasing online sales by 40%."
 
 LANGUAGES:
-  enabled: true
+  enabled: false
   display_progress_bars: true
   display_percentage_values: true
   label: "Languages"
@@ -44,7 +44,7 @@ LANGUAGES:
       proficiency: "40%"
 
 SKILLS:
-  enabled: true
+  enabled: false
   display_progress_bars: true
   display_percentage_values: true
   label: "My Skills"
