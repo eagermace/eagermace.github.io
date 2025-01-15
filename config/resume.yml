@@ -52,14 +52,14 @@ EXPERIENCE:
   
   LANGUAGES:
   enabled: true
-  display_progress_bars: false
-  display_percentage_values: false
+  display_progress_bars: true
+  display_percentage_values: true
   label: "Languages"
   items:
-    - language: "Inglés"
-      proficiency: "60%"
-    - language: "Francés"
-      proficiency: "40%"
+    - language: "Undergraduate Degree"
+      proficiency: "70%"
+    - language: "Dog"
+      proficiency: "100%"
 
 SKILLS:
   enabled: false
