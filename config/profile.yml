@@ -14,8 +14,7 @@ USER:
 
 INFO:
   - label: "Email"
-    value: "james.k.ouano"
-    value: "@gmail.com"
+    value: "james.k.ouano@gmail.com"
     icon: "mail-outline"
   - label: "Phone"
     value: "+1 (847) 219-1491"
