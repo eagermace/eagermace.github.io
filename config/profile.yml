@@ -10,7 +10,7 @@ USER:
   role: "Civil Engineer"
   name: "James Ouano"
   username: "eagermace" # <-- This needs to be the same as your GitHub username
-  avatar: "config/assets/avatars/eagemace.png"
+  avatar: "config/assets/avatars/ACVV3300L.jpg"
 
 INFO:
   - label: "Email"
