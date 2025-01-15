@@ -10,16 +10,16 @@ DOING:
   items:
     - title: "UW-Milwaukee"
       icon: "config/assets/icons/mobile.svg"
-      description: "."
+      description: "B.S. in Civil Engineering. Estimate Graduation: May 2026"
     - title: "Resident Assistant"
       icon: "config/assets/icons/code.svg"
-      description: "."
-    - title: "President - ITE"
+      description: "Sandburg Resident Hall - North Tower Floor 24"
+    - title: "Institute of Transportation of Engineers"
       icon: "config/assets/icons/compass.svg"
-      description: "."
-    - title: "Treasurer - BSO"
+      description: "UW-Milwaukee Student Chapter - President"
+    - title: "Filipino Student Union"
       icon: "config/assets/icons/laptop-code.svg"
-      description: "."
+      description: "UW-Milwaukee Student Organization - Treasurer"
 
 SKILLS:
   enabled: false
